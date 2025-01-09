@@ -60,7 +60,7 @@ const Deals = () => {
           Buy Now
         </button>
         
-        <p className='text-2xl mt-12 font-custom'>Hurry Before It's </p>
+        <p className='text-2xl mt-12 font-custom'>Hurry Before It's too late</p>
 
         {/* Countdown Section */}
         <div className='flex justify-between items-center mt-4'>
